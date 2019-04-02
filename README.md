@@ -9,7 +9,7 @@ Everyone in class will create a Unity scene unde Assets/VR-Topics/Scenes with th
 | [01.Climbing](https://youtu.be/4X1TEp81R04) | Andrew | Simple VRTK |
 | [02.CustomBeams](https://youtu.be/nuDCzRInoE8) | Meimei | 
 | [03.Flying](https://www.youtube.com/watch?v=p9u3yLUR5CQ) | Mark |
-| [04.Tooltips](https://youtu.be/5bgJ5inm404) | Xiangrui Zeng | 
+| [04.Tooltips](https://youtu.be/5bgJ5inm404) | Xiangrui | 
 | [05.Flyng Unreal](https://youtu.be/cKFcqBQ_lIM) | Suhyun | 
 | [06.HapticRumble	](https://youtu.be/ErSxZlZh6fc) | Soffiah |
 | [07.GazePointer](https://youtu.be/aJhPm5h1pl4) |  Xiangrui | Simple example
