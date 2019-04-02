@@ -1,8 +1,8 @@
 # VR TOPICS IN VRTK
 
 ## Goals
-To develop an understaiding of the potential of using and implementing VRTK interactions for more specific needs in VR.
-Everyone in class will create a Unity scene unde Assets/VR-Topics/Scenes with the name of the topic assignef to you. 
+To develop an understanding of the potential of using and implementing VRTK interactions for more specific needs in VR.
+Everyone in class will create a Unity scene unde Assets/VR-Topics/Scenes with the name of the topic assigned to you. 
 
 | Topic/Scene name | Developer | Comments |
 |---|---|--|
@@ -34,7 +34,8 @@ This is a Group work to be completed in class, everyone will contribute to the e
 5. Take a screenshot and place it inside: 
 > Assets/SAIC-VRclass/Screenshots/xx.TopicName.png
 6. Save your scene
-7. In GitHub Commit your changes to master, and make sure to add a meaningful comment
+7. In GitHub **Commit to master** your changes to master, and make sure to add a meaningful comment
+8. **Push** your repo to GitHub
 
 ## Testing & Presenting
 When done, test your VR scene in the HTC Vive in the classroom, and prepare to present what you learned to the class. 
