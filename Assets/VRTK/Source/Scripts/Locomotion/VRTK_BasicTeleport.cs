@@ -5,6 +5,7 @@ namespace VRTK
     using System.Collections;
 #if UNITY_5_5_OR_NEWER
     using UnityEngine.AI;
+    using System;
 #endif
 
     /// <summary>
@@ -433,6 +434,11 @@ namespace VRTK
                     InitDestinationSetListener(destinationMarker.gameObject, state);
                 }
             }
+        }
+
+        internal void ForceTeleport(Transform transform, Vector3 vector3)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -19,17 +19,19 @@
             gameObject.GetComponent<MeshRenderer>().material.color = color;
         }
 
+        public VRTK_BasicTeleport teleporter;
+
         public override void StartUsing(VRTK_InteractUse usingObject)
         {
             base.StartUsing(usingObject);
 
             if (shape == PrimitiveTypes.Cube)
             {
-                CreateShape(PrimitiveType.Cube, selectedColor);
+                teleporter.ForceTeleport(GameObject.Find("Floor").transform, new Vector3(4f, 0.5f, 4f));
             }
             else if (shape == PrimitiveTypes.Sphere)
             {
-                CreateShape(PrimitiveType.Sphere, selectedColor);
+                teleporter.ForceTeleport(GameObject.Find("Floor").transform, new Vector3(-2f, 0.5f, -2f));
             }
             ResetMenuItems();
         }
